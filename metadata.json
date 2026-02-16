@@ -1,0 +1,8 @@
+{
+  "name": "EduBoost AI: Student Performance Predictor & Smart Planner",
+  "description": "A comprehensive AI-driven platform for predicting academic success, generating personalized study schedules, and providing data-backed performance insights using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
